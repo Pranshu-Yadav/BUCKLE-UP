@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059052840522",
+    "project_id": "buckle-up-528a4",
+    "storage_bucket": "buckle-up-528a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059052840522:android:11f11385cddd70791ae8b3",
+        "android_client_info": {
+          "package_name": "com.example.buckleup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGe-XOpg9LjQ2H34H6hdkXWgPKkwHKjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
